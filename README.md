@@ -9,7 +9,7 @@ This project demonstrates how to implement and use the YOLO model to detect obje
 ## 🎥 Video Demonstration
 
 Watch the complete demonstration on YouTube:
-[YOLO Object Detection in Colab: Testing with Image Examples](YOUR_VIDEO_LINK)
+[YOLO Object Detection in Colab: Testing with Image Examples](https://youtu.be/55dqmdPfhMg)
 
 ## 🔧 How to Use
 
